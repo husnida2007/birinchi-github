@@ -10,13 +10,15 @@ body{
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  background-image: url("./yulduz1.jpg");
+  background-size: cover;
 }
 
 .container{
   width: 700px;
   height: 700px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -42,7 +44,7 @@ body{
   width: 600px;
   height: 600px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -65,7 +67,7 @@ body{
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -88,7 +90,7 @@ body{
   width: 400px;
   height: 400px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -111,7 +113,7 @@ body{
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -134,7 +136,7 @@ body{
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid #fff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -147,6 +149,7 @@ body{
   height: 90px;
   background-image: url("./download\ \(1\).jpg");
   background-size: cover;
+  background-color: none;
   position: absolute;
   border-radius: 50%;
   /* box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 90px; */
